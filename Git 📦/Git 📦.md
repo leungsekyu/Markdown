@@ -31,6 +31,10 @@ i
 ```
 
 ```
+:wq
+```
+
+```
 git config --list
 ```
 
@@ -54,7 +58,7 @@ brew upgrade --cask git-credential-manager
 brew uninstall --cask git-credential-manager
 ```
 
-[Git Credential Manager：Install instructions](https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md#install-instructions)
+[Git Credential Manager: Install instructions](https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md#install-instructions)
 
 ## [Oh My Zsh / Git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git#git-plugin)
 
