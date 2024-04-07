@@ -2,6 +2,8 @@
 
 ## .gitignore 🫥
 
+### [macOS](https://www.toptal.com/developers/gitignore/api/macos)
+
 [gitignore.io](https://www.toptal.com/developers/gitignore/)
 
 ### set global user name
