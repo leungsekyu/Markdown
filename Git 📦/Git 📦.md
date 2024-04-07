@@ -1,5 +1,9 @@
 # Git 📦
 
+## .gitignore 🫥
+
+[gitignore.io](https://www.toptal.com/developers/gitignore/)
+
 ### set global user name
 
 ```
