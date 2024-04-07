@@ -4,6 +4,9 @@
 
 ```
 git config --global user.name "leungsekyu"
+```
+
+```
 git config user.name
 ```
 
@@ -11,6 +14,9 @@ git config user.name
 
 ```
 git config --global user.email "leungsekyu@qq.com"
+```
+
+```
 git config user.emai
 ```
 
@@ -18,7 +24,13 @@ git config user.emai
 
 ```
 git config --global --edit
+```
+
+```
 i
+```
+
+```
 git config --list
 ```
 
@@ -46,11 +58,11 @@ brew uninstall --cask git-credential-manager
 
 ## [Oh My Zsh / Git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git#git-plugin)
 
-| Command              | Alias |
-| :------------------- | :---- |
-| git status           | gst   |
-| git add --all        | gaa   |
-| git commit --message | gcmsg |
-| git push             | gp    |
-| git pull             | gl    |
-|                      |       |
+| Command                    | Alias |
+| :------------------------- | :---- |
+| git status                 | gst   |
+| git add --all              | gaa   |
+| git commit --message       | gcmsg |
+| git commit --all --message | gcam  |
+| git push                   | gp    |
+| git pull                   | gl    |
