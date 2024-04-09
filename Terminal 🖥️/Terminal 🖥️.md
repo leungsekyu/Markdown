@@ -31,7 +31,7 @@ source ~/.zshrc
 
 [zsh-autosuggestions：Installation｜Oh My Zsh](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 
-[freeCodeCamp：如何像专业人士一样使用 Zsh 配置 macOS 终端](https://www.freecodecamp.org/chinese/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro/)
+[freeCodeCamp：如何像专业人士一样使用 Zsh 配置 macOS 终端｜步骤五：更改默认主题｜步骤八：安装插件](https://www.freecodecamp.org/chinese/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro/)
 
 ## [Homebrew 🍺](https://brew.sh/zh-cn/)
 
