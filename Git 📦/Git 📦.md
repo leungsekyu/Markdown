@@ -4,7 +4,7 @@
 
 ### [gitignore.io](https://www.toptal.com/developers/gitignore/)
 
-[gitignore.io｜macOS](https://www.toptal.com/developers/gitignore/api/macos)
+[macOS](https://www.toptal.com/developers/gitignore/api/macos)
 
 ### set global user name
 
