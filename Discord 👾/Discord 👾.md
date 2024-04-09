@@ -2,14 +2,20 @@
 
 ## 申訴（Appeals）
 
-[提交請求](https://support.discord.com/hc/zh-tw/requests/new?ticket_form%20id=360000029731)  
+[提交請求](https://support.discord.com/hc/zh-tw/requests/new?ticket_form%20id=360000029731)
+
 [Submit a request](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731)
 
-1. 請問我們該如何幫助您？（What can we help you with?）  
+1. 請問我們該如何幫助您？（What can we help you with?）
+
    申訴與年齡更新申請（Appeals & Age Update Requests）
-2. 我們該如何幫助您？（How can we help?）  
+
+2. 我們該如何幫助您？（How can we help?）
+
    為我的帳號被採取的行動提出上訴（Appeal an action taken on my account or bot）
-3. 您想提出關於什麼問題的上訴？（What would you like to appeal?）  
+
+3. 您想提出關於什麼問題的上訴？（What would you like to appeal?）
+
    針對我的帳號所採取的行動（An action taken on my account）
 
 ### 標題（Subject）：
@@ -26,5 +32,6 @@ My account: 填你的注册邮箱
 
 #### 参考链接：
 
-[知乎：Discord账户被封申诉方法](https://zhuanlan.zhihu.com/p/483085856)  
+[知乎：Discord账户被封申诉方法](https://zhuanlan.zhihu.com/p/483085856)
+
 [CSDN：Discord账号申诉指南，让你成功找回账号](https://blog.csdn.net/dongdonglin77/article/details/136716352)
