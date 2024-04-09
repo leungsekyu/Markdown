@@ -42,5 +42,6 @@
 
 - ~~跳过证书验证~~
 
-[Nico's Blog：Clash-API一键订阅链接转换](https://www.songxin.org/2023/01/12/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/Clash-API%E4%B8%80%E9%94%AE%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2/)  
+[Nico's Blog：Clash-API一键订阅链接转换](https://www.songxin.org/2023/01/12/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/Clash-API%E4%B8%80%E9%94%AE%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2/)
+
 [subconverter](https://github.com/tindy2013/subconverter/blob/master/README-cn.md#subconverter)
