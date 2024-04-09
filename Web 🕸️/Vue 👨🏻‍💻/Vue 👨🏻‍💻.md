@@ -76,4 +76,10 @@ ref()：接受一个内部值，返回一个响应式的、可更改的 ref 对�
 npm create vue@latest
 ```
 
+```
+cd <your-project-name>
+npm install
+npm run dev
+```
+
 [Vue.js 3：快速上手｜创建一个 Vue 应用](https://cn.vuejs.org/guide/quick-start.html#creating-a-vue-application)
