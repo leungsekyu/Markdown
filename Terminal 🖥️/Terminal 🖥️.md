@@ -29,7 +29,7 @@ plugins=(
 source ~/.zshrc
 ```
 
-[zsh-autosuggestions：Installation｜Oh My Zsh](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+[zsh-autosuggestions：Installation ｜ Oh My Zsh](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 
 [freeCodeCamp：如何像专业人士一样使用 Zsh 配置 macOS 终端｜步骤五：更改默认主题｜步骤八：安装插件](https://www.freecodecamp.org/chinese/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro/)
 
@@ -47,7 +47,7 @@ source ~/.zshrc
 brew install n
 ```
 
-[n：Installation｜Third Party Installers](https://github.com/tj/n?tab=readme-ov-file#third-party-installers)
+[n：Installation ｜ Third Party Installers](https://github.com/tj/n?tab=readme-ov-file#third-party-installers)
 
 ### 获取安装目录的管理员权限
 
@@ -61,7 +61,7 @@ sudo mkdir -p /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share
 sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share
 ```
 
-[n：Installation｜1. change the ownership of the relevant directories to yourself (see below)](https://github.com/tj/n?tab=readme-ov-file#installation)
+[n：Installation ｜ 1. change the ownership of the relevant directories to yourself (see below)](https://github.com/tj/n?tab=readme-ov-file#installation)
 
 ### 安装长期支持版本 Node.js 和 npm
 
@@ -81,9 +81,9 @@ n uninstall
 
 ---
 
-[npm Docs：Resolving EACCES permissions errors when installing packages globally｜Reinstall npm with a node version manager](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally#reinstall-npm-with-a-node-version-manager)
+[npm Docs：Resolving EACCES permissions errors when installing packages globally ｜ Reinstall npm with a node version manager](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally#reinstall-npm-with-a-node-version-manager)
 
-[npm Docs：Downloading and installing Node.js and npm｜Using a Node version manager to install Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm)
+[npm Docs：Downloading and installing Node.js and npm ｜ Using a Node version manager to install Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm)
 
 ## [Browsersync 🔗](https://browsersync.io/)
 
