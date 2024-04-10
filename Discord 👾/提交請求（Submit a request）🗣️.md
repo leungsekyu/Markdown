@@ -20,7 +20,7 @@ Appeal to Reopen Discord Account
 
 Dear Discord, I was unable to log in to my account and it occurred to me that my Discord account was disabled. I was unaware that I breached the Terms of Service or Community Guidelines. From now on, I will abide by the Terms of Service and Community Guidelines to ensure a safer Discord community. Please consider reopening my account.
 
-My account: 填你的<注册邮箱>
+My account: 填你的注册邮箱
 
 ### 参考链接：
 
