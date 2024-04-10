@@ -1,6 +1,4 @@
-# 申訴（Appeals）🗣️
-
-[提交請求](https://support.discord.com/hc/zh-tw/requests/new?ticket_form%20id=360000029731)（[Submit a request](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731)）
+# [提交請求](https://support.discord.com/hc/zh-tw/requests/new?ticket_form%20id=360000029731)（[Submit a request](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731)）🗣️
 
 ## 請問我們該如何幫助您？（What can we help you with?）
 
