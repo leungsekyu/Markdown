@@ -24,12 +24,10 @@ Appeal to Reopen Discord Account
 
 Dear Discord, I was unable to log in to my account and it occurred to me that my Discord account was disabled. I was unaware that I breached the Terms of Service or Community Guidelines. From now on, I will abide by the Terms of Service and Community Guidelines to ensure a safer Discord community. Please consider reopening my account.
 
-
-
-My account: 填你的注册邮箱
+My account: 填你的<注册邮箱>
 
 #### 参考链接：
 
-[知乎：Discord账户被封申诉方法](https://zhuanlan.zhihu.com/p/483085856)
+[知乎：Discord 账户被封申诉方法](https://zhuanlan.zhihu.com/p/483085856)
 
-[CSDN：Discord账号申诉指南，让你成功找回账号](https://blog.csdn.net/dongdonglin77/article/details/136716352)
+[CSDN：Discord 账号申诉指南，让你成功找回账号](https://blog.csdn.net/dongdonglin77/article/details/136716352)
