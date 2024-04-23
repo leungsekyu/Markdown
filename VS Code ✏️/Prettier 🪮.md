@@ -12,7 +12,7 @@ prettier.requireConfig (default: `false`)
 
 ## .prettierrc ☑️
 
-```
+```JSON
 {
   "singleQuote": true,
   "semi": false
@@ -25,7 +25,7 @@ prettier.requireConfig (default: `false`)
 
 ## [plugin-xml 🧩](https://github.com/prettier/plugin-xml?tab=readme-ov-file#prettier-for-xml)
 
-```
+```SH
 npm install --save-dev prettier @prettier/plugin-xml
 ```
 
