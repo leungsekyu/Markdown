@@ -14,7 +14,7 @@
 
 ```HTML
 <el-icon>
-  <i-ep-circle-plus /> // 烤肉串式命名
+  <i-ep-circle-plus /> // 烤肉串式命名 ❗️
 </el-icon>
 ```
 
