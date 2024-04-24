@@ -1,37 +1,5 @@
 # Vue 🖼️
 
-### 对动态参数表达式的约束
-
-在 DOM 中使用模板时 (直接在一个 HTML 文件里撰写模板)，还需要**避免使用大写字符来命名键名**，因为浏览器会把 attribute 名**全部强制转为小写**：
-
-```
-<!--
-在 DOM 中使用模板时这段代码会被转换为 `v-bind:[someattr]`。
-除非在实例中有一个名为“someattr”的 property，否则代码不会工作。
--->
-<a v-bind:[someAttr]="value"> ... </a>
-```
-
-[Vue.js 2：模板语法｜动态参数｜对动态参数表达式的约束](https://v2.cn.vuejs.org/v2/guide/syntax.html#%E5%8A%A8%E6%80%81%E5%8F%82%E6%95%B0)
-
-### 使用一个对象绑定多个 prop
-
-如果你想要将一个对象的所有属性都当作 props 传入，你可以**使用没有参数的 v-bind**，即只使用 v-bind 而非 :prop-name。
-
-```
-const post = {
-  id: 1,
-  title: 'My Journey with Vue'
-}
-```
-
-```
-<BlogPost v-bind="post" />
-```
-
-[Vue.js 3：Props ｜使用一个对象绑定多个 prop](https://cn.vuejs.org/guide/components/props#binding-multiple-properties-using-an-object)  
-[Vue.js 3：模板语法｜动态绑定多个值](https://cn.vuejs.org/guide/essentials/template-syntax.html#dynamically-binding-multiple-attributes)
-
 ## data
 
 **组件的 `data` 必须是一个函数。**
