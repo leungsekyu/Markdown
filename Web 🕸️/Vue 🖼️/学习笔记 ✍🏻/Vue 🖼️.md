@@ -1,13 +1,5 @@
 # Vue 🖼️
 
-## 通过 CDN 使用 Vue
-
-```
-<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-```
-
-[Vue.js 3：快速上手｜通过 CDN 使用 Vue](https://cn.vuejs.org/guide/quick-start.html#using-vue-from-cdn)
-
 ### 对动态参数表达式的约束
 
 在 DOM 中使用模板时 (直接在一个 HTML 文件里撰写模板)，还需要**避免使用大写字符来命名键名**，因为浏览器会把 attribute 名**全部强制转为小写**：
@@ -68,19 +60,3 @@ const post = {
 ref()：接受一个内部值，返回一个响应式的、可更改的 ref 对象，此对象只有一个指向其内部值的属性 `.value`。
 
 [Vue.js 3：响应式基础｜ ref()](https://cn.vuejs.org/guide/essentials/reactivity-fundamentals.html#ref)
-
-## 命令行
-
-### 创建一个 Vue 应用
-
-```
-npm create vue@latest
-```
-
-```
-cd <your-project-name>
-npm install
-npm run dev
-```
-
-[Vue.js 3：快速上手｜创建一个 Vue 应用](https://cn.vuejs.org/guide/quick-start.html#creating-a-vue-application)
