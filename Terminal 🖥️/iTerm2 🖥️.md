@@ -27,7 +27,7 @@ plugins=(
 source ~/.zshrc
 ```
 
-#### Reference Link
+#### Reference Link 🔗
 
 [zsh-autosuggestions：Installation ｜ Oh My Zsh](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 
@@ -43,19 +43,19 @@ source ~/.zshrc
 
 ### Why n?
 
-#### Reference Link
+#### Reference Link 🔗
 
 [npm Docs：Resolving EACCES permissions errors when installing packages globally ｜ Reinstall npm with a node version manager](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally#reinstall-npm-with-a-node-version-manager)
 
 [npm Docs：Downloading and installing Node.js and npm ｜ Using a Node version manager to install Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm)
 
-### Install
+### Installation
 
 ```
 brew install n
 ```
 
-#### Reference Link
+#### Reference Link 🔗
 
 [n：Installation ｜ Third Party Installers](https://github.com/tj/n?tab=readme-ov-file#third-party-installers)
 
@@ -71,7 +71,7 @@ sudo mkdir -p /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share
 sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share
 ```
 
-#### Reference Link
+#### Reference Link 🔗
 
 [n：Installation ｜ 1. change the ownership of the relevant directories to yourself (see below)](https://github.com/tj/n?tab=readme-ov-file#installation)
 
@@ -81,34 +81,34 @@ sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/include /usr/lo
 n lts
 ```
 
-#### Reference Link
+#### Reference Link 🔗
 
 [n：Installing Node.js Versions](https://github.com/tj/n?tab=readme-ov-file#installing-nodejs-versions)
 
-### Remove all installed Node.js
+### Remove all installed Node.js 🗑️
 
 ```
 n uninstall
 ```
 
-#### Reference Link
+#### Reference Link 🔗
 
 [n：Removing Versions](https://github.com/tj/n?tab=readme-ov-file#removing-versions)
 
-## [Browsersync 🔗](https://browsersync.io/)
+## [Browsersync](https://browsersync.io/)
 
-### Install
+### Installation
 
 ```
 npm install -g browser-sync
 ```
 
-### Start
+### Usage
 
 ```
 browser-sync start --server --files "**/*"
 ```
 
-#### Reference Link
+#### Reference Link 🔗
 
 [Stack Overflow：Browser Sync and watching multiple folders](https://stackoverflow.com/questions/36653766/browser-sync-and-watching-multiple-folders)
