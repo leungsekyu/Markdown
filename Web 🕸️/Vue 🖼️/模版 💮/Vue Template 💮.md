@@ -1,4 +1,4 @@
-# Element Plus 💮
+# Vue Template 💮
 
 ## Installation 🔧
 
