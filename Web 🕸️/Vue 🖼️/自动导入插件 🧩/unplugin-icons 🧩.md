@@ -59,6 +59,24 @@ export default {
 }
 ```
 
+### Icons Data ( [Iconify](https://iconify.design/) )
+
+###### Install Full Collection
+
+```
+npm i -D @iconify/json
+```
+
+### ~~Icons Data Auto Installation ( [Iconify](https://iconify.design/) )~~
+
+```JS
+// vite.config.js
+Icons({
+  // experimental
+  autoInstall: true,
+})
+```
+
 ### Name Conversion
 
 When using ==component resolver==, you have to follow the name conversion for icons to be properly inferred.
@@ -73,24 +91,13 @@ By default, the prefix is set to `i`
 <i-{collection}-{icon} /> ❗️
 ```
 
-The `collection` field follows [Iconify's collection IDs](https://icon-sets.iconify.design/)
+The `collection` field follows ==[Iconify's collection IDs](https://icon-sets.iconify.design/)==
 
 #### Reference Link
 
 [unplugin-icons：Auto Importing ｜ Vue 2 & 3](https://github.com/unplugin/unplugin-icons?tab=readme-ov-file#auto-importing)
 
 [unplugin-icons：Auto Importing ｜ Name Conversion](https://github.com/unplugin/unplugin-icons?tab=readme-ov-file#name-conversion)
-
-## Icons Data Auto Installation ( [Iconify](https://iconify.design/) )
-
-### Vite
-
-```JS
-Icons({
-  // experimental
-  autoInstall: true,
-})
-```
 
 #### Reference Link
 
