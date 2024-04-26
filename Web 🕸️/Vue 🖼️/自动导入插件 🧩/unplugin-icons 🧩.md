@@ -97,9 +97,9 @@ The `collection` field follows ==[Iconify's collection IDs](https://icon-sets.ic
 
 [unplugin-icons：Auto Importing ｜ Vue 2 & 3](https://github.com/unplugin/unplugin-icons?tab=readme-ov-file#auto-importing)
 
-[unplugin-icons：Auto Importing ｜ Name Conversion](https://github.com/unplugin/unplugin-icons?tab=readme-ov-file#name-conversion)
-
-#### Reference Link
+[unplugin-icons：Install ｜ Icons Data ｜ Install Full Collection](https://github.com/unplugin/unplugin-icons?tab=readme-ov-file#install-full-collection)
 
 [unplugin-icons：Install ｜ Icons Data ｜ autoInstall
 ](https://github.com/unplugin/unplugin-icons?tab=readme-ov-file#icons-data)
+
+[unplugin-icons：Auto Importing ｜ Name Conversion](https://github.com/unplugin/unplugin-icons?tab=readme-ov-file#name-conversion)
