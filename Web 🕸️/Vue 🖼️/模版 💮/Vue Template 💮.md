@@ -4,7 +4,7 @@
 
 ### npm 📦
 
-```BASH
+```SH
 npm i -D unplugin-auto-import
 npm i unplugin-vue-components -D
 npm i -D unplugin-icons
