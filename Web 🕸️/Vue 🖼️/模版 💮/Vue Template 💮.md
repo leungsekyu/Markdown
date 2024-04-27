@@ -47,7 +47,7 @@ export default defineConfig({
 
 **Visual Studio Code**
 
-```JSON
+```VIM
 // .prettierrc
 {
   "singleQuote": true,
