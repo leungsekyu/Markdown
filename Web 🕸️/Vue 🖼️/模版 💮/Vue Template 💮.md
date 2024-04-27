@@ -4,7 +4,7 @@
 
 ### npm 📦
 
-```SH
+```BASH
 npm i -D unplugin-auto-import
 npm i unplugin-vue-components -D
 npm i -D unplugin-icons
@@ -47,7 +47,7 @@ export default defineConfig({
 
 **Visual Studio Code**
 
-```VIM
+```JSON
 // .prettierrc
 {
   "singleQuote": true,
