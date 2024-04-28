@@ -11,4 +11,4 @@ html {
 
 ## Reference Link
 
-[CSS-Tricks：Box Sizing](https://css-tricks.com/box-sizing/)
+[CSS-Tricks：Box Sizing ｜ Universal Box Sizing with Inheritance](https://css-tricks.com/box-sizing/#aa-universal-box-sizing-with-inheritance)
